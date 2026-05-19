@@ -33,64 +33,68 @@ Execute the program using runserver command.
 
 <body>
 
+    
+    
+    <center>
+        <img src="C:\Users\acer\Desktop\exp web\ex 01 orm\slot_timetable\slot\table\static\logo.png " width="60%">
+        </center>    
     <h2 align="center">TIME TABLE</h2>
 
-    <table border="1" cellpadding="15" cellspacing="0" align="center">
-
+    <table border="1" cellpadding="15" cellspacing="0" align="center">    
         <tr>
-            <th>DAY</th>
-            <th>8 - 10</th>
-            <th>10 - 12</th>
-            <th>1 - 3</th>
-            <th>3 - 5</th>
+            <th bgcolor="cyan">DAY</th>
+            <th bgcolor="peachpuff">8 - 10</th>
+            <th bgcolor="peachpuff">10 - 12</th>
+            <th bgcolor="peachpuff">1 - 3</th>
+            <th bgcolor="peachpuff">3 - 5</th>
         </tr>
 
         <tr>
-            <th>MONDAY</th>
-            <td>FREE SLOT</td>
-            <td>Operating System</td>
-            <td>FREE SLOT</td>
-            <td>FREE SLOT</td>
+            <th bgcolor="lightgray">MONDAY</th>
+            <td bgcolor="lavender">FREE SLOT</td>
+            <td bgcolor="lightblue">Operating System</td>
+            <td bgcolor="lavender">FREE SLOT</td>
+            <td bgcolor="lavender">FREE SLOT</td>
         </tr>
 
         <tr>
-            <th>TUESDAY</th>
-            <td>FREE SLOT</td>
-            <td>Fundamental of Web Application</td>
-            <td>Fundamental of Web Application</td>
-            <td>FREE SLOT</td>
+            <th bgcolor="lightgray">TUESDAY</th>
+            <td bgcolor="cyan">FREE SLOT</td>
+            <td bgcolor="lightgreen">Fundamental of Web Application</td>
+            <td bgcolor="lightgreen">Fundamental of Web Application</td>
+            <td bgcolor="lavender">FREE SLOT</td>
         </tr>
 
         <tr>
-            <th>WEDNESDAY</th>
-            <td>Operating System</td>
-            <td>Fundamental of Web Application</td>
-            <td>FREE SLOT</td>
-            <td>Fundamental of C Programming</td>
+            <th bgcolor="lightgray">WEDNESDAY</th>
+            <td bgcolor="lightblue">Operating System</td>
+            <td bgcolor="lightgreen">Fundamental of Web Application</td>
+            <td bgcolor="lavender">FREE SLOT</td>
+            <td bgcolor="lightpink">Fundamental of C Programming</td>
         </tr>
 
         <tr>
-            <th>THURSDAY</th>
-            <td>Operating System</td>
-            <td>FREE SLOT</td>
-            <td>Fundamental of C Programming</td>
-            <td>Fundamental of C Programming</td>
+            <th bgcolor="lightgray">THURSDAY</th>
+            <td bgcolor="lightblue">Operating System</td>
+            <td bgcolor="lavender">FREE SLOT</td>
+            <td bgcolor="lightpink">Fundamental of C Programming</td>
+            <td bgcolor="lightpink">Fundamental of C Programming</td>
         </tr>
 
         <tr>
-            <th>FRIDAY</th>
-            <td>Operating System</td>
-            <td>Fundamental of Web Application</td>
-            <td>Fundamental of C Programming</td>
-            <td>FREE SLOT</td>
+            <th bgcolor="lightgray">FRIDAY</th>
+            <td bgcolor="lightblue">Operating System</td>
+            <td bgcolor="lightgreen">Fundamental of Web Application</td>
+            <td bgcolor="lightpink">Fundamental of C Programming</td>
+            <td bgcolor="lavender">FREE SLOT</td>
         </tr>
 
         <tr>
-            <th>SATURDAY</th>
-            <td>FREE SLOT</td>
-            <td>FREE SLOT</td>
-            <td>FREE SLOT</td>
-            <td>FREE SLOT</td>
+            <th bgcolor="lightgray" >SATURDAY</th>
+            <td bgcolor="lavender">FREE SLOT</td>
+            <td bgcolor="lavender" >FREE SLOT</td>
+            <td bgcolor="lavender">FREE SLOT</td>
+            <td bgcolor="lavender">FREE SLOT</td>
         </tr>
 
     </table>
@@ -127,7 +131,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
